@@ -7,17 +7,10 @@ body {
 
 .background-image {
   background-image: url("/assets/images/CodeFace.jpg");
-  /*background-image: url("/assets/images/MountEvansAndMountBierstadtFromGuanellaPassNearDusk1200x842.jpg");*/
   background-repeat: no-repeat; /*repeat;*/
   background-size: cover; /*contain;*/
   background-attachment: fixed;
   height: 100vh;
-}
-
-.prog-scala-cover-cell {
-  /*background-image: url("/assets/images/prog_scala_2ed_comp-quarter_size.jpg");*/
-  width:  262px;
-  height: 344px;
 }
 
 .basic-table {
