@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mined Minds
-tagline: Bringing Free Computer Programming to Greene County, Pa
+tagline: Igniting the Tech Community in Greene County, PA
 include_social: true
 ---
 {% include JB/setup %}
