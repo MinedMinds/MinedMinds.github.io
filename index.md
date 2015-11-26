@@ -19,7 +19,7 @@ include_social: true
     We are looking for people with a logical mind and a commitment to learn. There are no formal education requirements, and we value people with varied backgrounds. The next course will start in January 2016, and there will be informational sessions over the weekend of December 19th / 20th - more details to come.<br><br>
     E-mail us at info@minedminds.org for more information.<br><br>
     <div class="more">
-      <a href="events.html" class="button">More About Training Courses</a>
+      <a href="training.html" class="button">More About Training Courses</a>
     </div>
     <br><br>
     <p class="section-title"><span>CONSULTANCY</span></p>
