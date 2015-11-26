@@ -27,7 +27,7 @@ include_social: true
     We are based in Greene County, PA, and provide an alternative to off-shoring software development projects by offering quality services by local residents at competitive rates. We work closely with our clients to build solutions that fit the need and the budget. When possible, we will work with our students as well as consultants to give students real world experience prior to taking on their first real programming job. This is mutually beneficial to the students and the clients.<br><br>
     E-mail us at info@minedminds.org for more information or to arrange a meeting to discuss your needs.<br><br>
     <div class="more">
-      <a href="consultancy.html/" class="button">More About Consultancy Services</a>
+      <a href="consultancy.html" class="button">More About Consultancy Services</a>
     </div>
  </section>
 
