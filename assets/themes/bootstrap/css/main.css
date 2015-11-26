@@ -206,7 +206,8 @@ section {
 
 .section-title {
   margin-bottom: 30px;
-  border-top: 1px solid #eee;
+  border-top: 3px solid #eee;
+  text-align: center;
 }
 .section-title span {
   position: relative;
@@ -215,7 +216,7 @@ section {
   background: #fff;
   font-family: "Lato", sans-serif;
   font-weight: 900;
-  font-size: 15px;
+  font-size: 30px;
   text-transform: uppercase;
   color: #CECECE;
 }
