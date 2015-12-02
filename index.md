@@ -17,17 +17,17 @@ include_social: true
     The courses are part-time, and last for approximately six months in duration. There are on-site classes every other weekend, and remote classes on weekday evenings. Additionally, there are individual and group assignments, with the total time commitment required for a student on the course averaging about 25-30 hours each week.
     <br><br>
     We are looking for people with a logical mind and a commitment to learn. There are no formal education requirements, and we value people with varied backgrounds. The next course will start in January 2016, and there will be informational sessions over the weekend of December 19th / 20th - more details to come.<br><br>
-    E-mail us at info@minedminds.org for more information.<br><br>
+    <a href="contact.html">Contact us</a> for more information.<br><br>
     <div class="more">
-      <a href="training.html" class="button">More About Training Courses</a>
+      <a href="training.html" class="button">More About Training</a>
     </div>
     <br><br>
     <p class="section-title"><span>CONSULTANCY</span></p>
     Mined Minds offers software development consultancy services to help grow your business. We bring a wealth of experience across multiple industries, on projects both big and small. Whether you have a specific problem that needs to be solved, or would like support and guidance in building software solutions, then let's have a conversation about how we can work together.<br><br>
     We are based in Greene County, PA, and provide an alternative to off-shoring software development projects by offering quality services by local residents at competitive rates. We work closely with our clients to build solutions that fit the need and the budget. When possible, we will work with our students as well as consultants to give students real world experience prior to taking on their first real programming job. This is mutually beneficial to the students and the clients.<br><br>
-    E-mail us at info@minedminds.org for more information or to arrange a meeting to discuss your needs.<br><br>
+    <a href="contact.html">Contact us</a> for more information or to arrange a meeting to discuss your needs.<br><br>
     <div class="more">
-      <a href="consultancy.html" class="button">More About Consultancy Services</a>
+      <a href="consultancy.html" class="button">More About Consultancy</a>
     </div>
  </section>
 
