@@ -8,7 +8,7 @@ include_social: true
 
 <section id="research" class="centered">
   <p class="section-title"><span>VISION</span></p>
-    Mined Minds believes anyone can have a sucessful career in programming, and that a community working together towards common goals can change the economic driving force behind the local economy.<br><br>
+    Mined Minds believes anyone can have a successful career in programming, and that a community working together towards common goals can change the economic driving force behind the local economy.<br><br>
     We intend to seed the growth of a technology hub within Greene County, Pennsylvania, and for the information revolution to be the fuel to drive the area into the future. Mined Minds provides free computer programming training for local residents that would like to start a career within software development, and we offer software consultancy services to local businesses and government.
     <br><br> 
   <p class="section-title"><span>TRAINING</span></p>

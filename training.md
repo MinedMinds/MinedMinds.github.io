@@ -16,6 +16,7 @@ include_social: true
     What is required is a logical mind, a passion for learning, and lots of curiosity and determination. You will also need to be able to commit the required time to complete the training - the current class spend on average 25 - 30 hours each week, on a combination of on-site classes, remote classes, and homework assignments. The course is not designed to be easy - it is designed to prepare you to start a new career.<br><br>
     If you are interested in joining the next class, then be prepared to convince us that you have the passion and drive to succeed. You may like to look at <a href="http://jonathangraham.github.io/2015/08/13/Teaching%20Programming%20with%20SonicPi/">Learning To Code with Audible Programming</a> and <a href="http://learnrubythehardway.org/book/">Learning Ruby the Hard Way</a>.<br><br>
   <p class="section-title"><span>next course</span></p>
-  <p>The next course will start in January, 2016. There will be informational sessions over the weekend of December 19th / 20th - more details to come.<br><br>
-    <a href="contact.html">Contact us</a> for more information.<br><br></p>
+  <p>The next course will start in January, 2016. There will be informational sessions on Saturday, December 19th at 4 pm and on Sunday, December 20th at 1 pm. Both sessions will be held at Nemacolin VFD.<br><br>
+    <img src="/assets/images/MinedMindsInfoDec2015.png">
+    <br><br><a href="contact.html">Contact us</a> for more information.<br><br></p>
 </section>
