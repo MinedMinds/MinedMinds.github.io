@@ -11,11 +11,11 @@
 body {
   /*color: #9B9B9B;*/
   font-family: "Merriweather", serif;
-  font-size: 18px;
+  font-size: 1.5vw;
 /*  text-align: center; */
 }
 footer {
-  font-size: 14px;
+  font-size: 1vw;
 }
 
 .centered {
@@ -30,29 +30,29 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 48px;
-  line-height: 60px;
+  font-size: 3vw;
+  line-height: 4vw;
 /*
   font-size: 60px;
   line-height: 75px;
 */
 }
 h2 {
-  font-size: 30px;
-  line-height: 40px;
+  font-size: 2.5vw;
+  line-height: 3vw;
 }
 h3 {
-  font-size: 20px;
-  line-height: 27px;
+  font-size: 2vw;
+  line-height: 2.5vw;
 }
 
 p {
-  margin: 1.5em 0;
-  line-height: 1.5em;
+  margin: 1.5vw 0;
+  line-height: 1.5vw;
 }
 
 li {
-  margin-left: 2.0em;
+  margin-left: 2.0vw;
 }
 
 nav {
@@ -61,9 +61,9 @@ nav {
   top: 0;
   left: 0;
   right: 0;
-  padding: 3px;
+  padding: 1vw;
   background: #112337;  /*#D0021B;*/
-  font-size: 12px;
+  font-size: 2vw;
   font-family: "Lato", sans-serif;
   font-weight: 500;
   text-transform: uppercase;
@@ -72,8 +72,8 @@ nav a {
   color: #fff;
   text-decoration: none;
   display: inline-block;
-  padding: 3px 10px;
-  border-radius: 20px;
+  padding: 1vw;
+  border-radius: 2vw;
 }
 nav a:hover {
   background: #fff;
@@ -100,43 +100,35 @@ p a:hover {
 .about-social-button-linkedin,
 .button-pdf,
 .button-video {
-  background: url(/assets/images/button.png) 3px 3px no-repeat;
+  background: url(/assets/images/button.png) 0.5vw 0.5vw no-repeat;
 }
 
 .about-social-button-resume,
 .about-social-button-twitter,
 .about-social-button-linkedin {
   display: inline-block;
-  padding: 0 15px 0 35px;
-  margin: 0 5px;
-  height: 30px;
-  line-height: 31px;
-  border-radius: 20px;
+  padding: 0 1.5vw 0 3.5vw;
+  margin: 0 10 vw;
+  height: 2vw;
+  line-height: 2vw;
+  border-radius: 2vw;
   background-color: #112337;
   color: #fff;
   text-decoration: none;
 }
 
-.about-social-button-twitter {
-  background-position: 8px -37px;
-}
-
-.about-social-button-resume {
-  background-position: 8px -118px;
-}
-
 .button {
   display: inline-block;
-  padding: 0 15px;
-  margin: 0 5px;
-  height: 30px;
-  line-height: 30px;
-  border-radius: 20px;
-  border: 1px solid #112337;
+  padding: 2vw;
+  margin: 0.5vw;
+  height: 1vw;
+  line-height: 0.5vw;
+  border-radius: 2vw;
+  border: 0.1vw solid #112337;
   color: #112337;
   text-decoration: none;
 }
-
+/*
 .button:hover,
 .button-pdf:hover,
 .button-video:hover {
@@ -159,7 +151,7 @@ p a:hover {
 }
 .button-video-inactive {
   opacity: 0.75;
-  filter: alpha(opacity=75); /* For IE8 and earlier */
+  filter: alpha(opacity=75);*/ /* For IE8 and earlier 
   display: inline-block;
   padding: 0 15px 0 35px;
   margin: 0 5px;
@@ -184,39 +176,39 @@ p a:hover {
 .button-video:hover {
   background-position: 8px -198px;
 }
-
+*/
 
 
 /*
  * LAYOUT
  */
 
-#wrapper {
+/*#wrapper {
   background-color: #f6fef6;
   width: 960px;
   margin: 0 auto;
-}
+}*/
 
 section {
-  margin-top:    80px;
-  margin-bottom: 80px;
-  margin-left:    0px;
-  margin-right:   0px;
+  margin-top:    4vw;
+  margin-bottom: 4vw;
+  margin-left:    0vw;
+  margin-right:   0vw;
 }
 
-.section-title {
-  margin-bottom: 30px;
-  border-top: 3px solid #eee;
+/*.section-title {
+  margin-bottom: 3vw;
+  border-top: 0.3vw solid #eee;
   text-align: center;
-}
+}*/
 .section-title span {
   position: relative;
-  top: -12px;
-  padding: 0 10px;
+/*  top: -12px;
+  padding: 0 10px;*/
   background: #fff;
   font-family: "Lato", sans-serif;
   font-weight: 900;
-  font-size: 30px;
+  font-size: 3vw;
   text-transform: uppercase;
   color: #CECECE;
 }
@@ -227,23 +219,23 @@ section {
  * ABOUT
  */
 
-#about {
+/*#about {
   margin: 100px 0 40px;
-}
+}*/
 
 #about h1 {
-  font-size: 100px;
-  line-height: 120px;
+  font-size: 8vw;
+  line-height: 26vw;
 }
 
 .about-whoami {
-  margin: 20px;
-  font-size: 20px;
-  line-height: 30px;
+  margin: 1vw;
+  font-size: 2vw;
+  line-height: 4vw;
 }
 
 .about-social {
-  margin: 30px;
+  margin: 1vw;
 }
 
 
@@ -263,7 +255,7 @@ section {
 
 .research-item {
   width: 50%;
-  padding: 0 15px;
+  padding: 0 1.5vw;
   float: left;
 }
 
@@ -273,14 +265,14 @@ section {
  * BOOKS
  */
 
-.books-book img {
+/*.books-book img {
   width: 125px;
   border: 4px solid #CECECE;
   margin: 20px;
 }
 .books-book:hover img {
   border-color: #112337;
-}
+}*/
 
 
 
@@ -288,7 +280,7 @@ section {
  * TALKS
  */
 
-.talks-table {
+/*.talks-table {
   width: 95%;
 }
 
@@ -323,3 +315,4 @@ section {
   font-style: italic;
  }
 
+*/

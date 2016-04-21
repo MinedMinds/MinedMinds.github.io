@@ -6,14 +6,16 @@ body {
 }
 
 .background-image {
-  background-image: url("/assets/images/CodeFace.jpg");
+  background-image: url("/assets/images/tc_only.jpg");
   background-repeat: no-repeat; /*repeat;*/
-  background-size: cover; /*contain;*/
-  background-attachment: fixed;
+  background-size: contain; /*contain;*/
+  background-attachment: center;
+  padding: 2vw;
   height: 100vh;
+  background-position: 0 6%;
 }
 
-.basic-table {
+/*.basic-table {
   width: 90%;
   border-style: solid;
   border-width: 1px;
@@ -24,7 +26,7 @@ body {
   border-style: solid;
   border-width: 1px;
   border-color: #dddddd;
-}
+}*/
 
 .container {
   background-color: #fefdfd;
@@ -47,17 +49,21 @@ body {
 .container-narrow > hr {
   margin: 30px 0; }
 
+.image {
+  width: 80%;
+}
+
 .navbar .nav {
   float: right;
 }
 
 .partially-transparent {
-  opacity: 0.85;
+  opacity: 0.90;
   filter: alpha(opacity=75); /* For IE8 and earlier */
 }
 
 /* posts index */
-.post > h3.title {
+/*.post > h3.title {
   position: relative;
   padding-top: 10px; }
 
@@ -68,15 +74,15 @@ body {
 
 .post > .more {
   margin: 10px 0;
-  text-align: left; }
+  text-align: left; }*/
 
 /* post-full*/
-.post-full .date {
+/*.post-full .date {
   margin-bottom: 20px;
-  font-weight: bold; }
+  font-weight: bold; }*/
 
 /* tag_box */
-.tag_box {
+/*.tag_box {
   list-style: none;
   margin: 0;
   overflow: hidden; }
@@ -109,4 +115,4 @@ body {
 .tag_box a.active {
   background: #57A957;
   border: 1px solid #4c964d;
-  color: #FFF; }
+  color: #FFF; }*/

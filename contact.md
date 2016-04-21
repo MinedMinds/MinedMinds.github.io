@@ -8,7 +8,7 @@ include_social: true
 <section id="research" class="centered">
 
 We welcome any questions or comments you may have about our company, services or training opportunities.<br><br>
-<a id="foxyform_embed_link_727238" href="http://www.foxyform.com/">foxyform</a>
+<a style="image" id="foxyform_embed_link_727238" href="http://www.foxyform.com/">foxyform</a>
 <script type="text/javascript">
 (function(d, t){
    var g = d.createElement(t),
