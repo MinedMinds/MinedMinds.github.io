@@ -22,7 +22,6 @@ include_social: true
     <div class="more">
       <a href="training.html" class="button">More About Training</a>
     </div>
-    <br><br>
     <p class="section-title"><span>CONSULTANCY</span></p>
     Mined Minds offers a range of business and software development consultancy services. 
     <br><br>
