@@ -21,7 +21,8 @@
 
   </head>
 
-  <body class="{{ page.style }} background-image">
+  <div class= "background-image">
+  <body class="{{ page.style }}">
     <!-- <div class=""> -->
       <nav class="centered">
         <a href="/index.html">Home</a>
@@ -33,6 +34,15 @@
       </nav>
       <div class="container content partially-transparent">
         {{ content }}
+        <div class="centered">
+        <p class="section-title"><span>Connect with Us</span></p>
+        {% if page.include_social %}
+
+    <a href="http://twitter.com/MinedMinds" class="about-social-button-twitter" target="twitter">Twitter</a>
+    <a href="https://www.facebook.com/MinedMinds" class="about-social-button-linkedin" target="linkedin">Facebook</a>
+
+  {% endif %}
+  </div>
         <hr>
         <footer>
           <p>
@@ -53,4 +63,5 @@
       <script src="{{ ASSET_PATH }}/resources/bootstrap/js/bootstrap.min.js"></script>
     <!-- </div> -->
   </body>
+  </div>
 </html>

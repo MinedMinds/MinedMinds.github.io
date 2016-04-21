@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Contact
+tagline: Mined Minds
 include_social: true
 ---
 {% include JB/setup %}
 
 <section id="research" class="centered">
+<p class="section-title"><span>info@minedminds.org</span></p>
 
 We welcome any questions or comments you may have about our company, services or training opportunities.<br><br>
 <a style="image" id="foxyform_embed_link_727238" href="http://www.foxyform.com/">foxyform</a>

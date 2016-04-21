@@ -226,11 +226,12 @@ section {
 
 #about h1 {
   font-size: 8vw;
-  line-height: 26vw;
+  padding-bottom: 4vw;
+  padding-top: 14vw;
 }
 
 .about-whoami {
-  margin: 1vw;
+  margin: 0vw;
   font-size: 2vw;
   line-height: 4vw;
 }

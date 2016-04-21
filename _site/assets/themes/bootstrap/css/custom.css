@@ -8,11 +8,10 @@ body {
 .background-image {
   background-image: url("/assets/images/tc_only.jpg");
   background-repeat: no-repeat; /*repeat;*/
-  background-size: contain; /*contain;*/
-  background-attachment: center;
-  padding: 2vw;
-  height: 100vh;
-  background-position: 0 6%;
+  background-size: 85%;
+  padding: 0vw;
+  height: 100vw;
+  background-position: center 10%;
 }
 
 /*.basic-table {
@@ -32,12 +31,15 @@ body {
   background-color: #fefdfd;
 }
 
-.footnote {
-/*  position:absolute;
+/*.footnote {
+  position:absolute;
   bottom:0;
-*/  /*left:0;*/
+  left:0;
 }
-.keyword {  /* used for highlighting terminology */
+*/
+
+/* used for highlighting terminology */
+/*.keyword {  
   color:#642;
   font-weight: bold;
   font-style: normal; }
@@ -47,7 +49,7 @@ body {
   max-width: 700px; }
 
 .container-narrow > hr {
-  margin: 30px 0; }
+  margin: 30px 0; }*/
 
 .image {
   width: 80%;
@@ -60,6 +62,7 @@ body {
 .partially-transparent {
   opacity: 0.90;
   filter: alpha(opacity=75); /* For IE8 and earlier */
+  width: 80%;
 }
 
 /* posts index */
