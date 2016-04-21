@@ -211,7 +211,8 @@ section {
   font-size: 3vw;
   line-height: 9vw;
   text-transform: uppercase;
-  color: #CECECE;
+  color: #2C2C2C;
+  opacity: 0.70;
 }
 
 
