@@ -260,6 +260,8 @@ section {
   width: 50%;
   padding: 0 1.5vw;
   float: left;
+  display: inline-block;
+  vertical-align: top;
 }
 
 
