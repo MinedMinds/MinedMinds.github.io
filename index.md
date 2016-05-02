@@ -10,7 +10,7 @@ include_social: true
   <p class="section-title"><span>VISION</span></p>
     Mined Minds believes anyone can have a successful career in software development, and that a community working together towards common goals can change the economic driving force behind the local economy. We intend to seed the growth of a technology hub within Greene County, Pennsylvania, and for the information revolution to be the fuel to drive the area into the future.
     <br><br>
-    You can read more about the coal-towns of Greene County, and our approach to bringing the technology industry to the area, in a recent article in the <a href="http://newsinteractive.post-gazette.com/coal-towns/">Pittsburgh Post-Gazette</a>. 
+    You can read about our approach to bringing the technology industry to the coal-towns of Greene County in recent articles in <a href="http://money.cnn.com/2016/04/22/news/economy/coal-workers-computer-coders/index.html">CNN</a> and the <a href="http://newsinteractive.post-gazette.com/coal-towns/">Pittsburgh Post-Gazette</a>.
     <br><br> 
   <p class="section-title"><span>TRAINING</span></p>
     Mined Minds is building a supply of talented technology professionals by providing computer programming training to local residents that would like to start a career within software development. We offer the training at no cost to qualifying individuals.<br><br>
