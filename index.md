@@ -17,8 +17,10 @@ include_social: true
     <br><br>
     You can read about our approach to bringing the technology industry to coal towns in recent articles published in <a href="http://money.cnn.com/2016/04/22/news/economy/coal-workers-computer-coders/index.html">CNN</a> and the <a href="http://newsinteractive.post-gazette.com/coal-towns/">Pittsburgh Post-Gazette</a>.
     <br><br> 
-  <p class="section-title"><span>NEWS</span></p>
+    <p class="section-title"><span>NEWS</span></p>
   </section>
+  <b>JULY 2016</b>
+  <li>We will be holding an <a href="https://www.facebook.com/events/191624284573663/">informational session</a> for our new training courses on <b>Sunday, July 10th, at 2 pm</b>. Join us at 145 W High St, Waynesburg PA 15370, to find out what is involved, the careers that you can expect at the end, and how to apply.</li>
   <b>JUNE 2016</b>
   <li><a href="https://www.ccac.edu/Computer_Coding_Boot_Camp/">Sign-up is now open</a> for our next full-time course, run in conjunction with Community College of Allegheny County. The course starts August 1st, and will run from our Waynesburg PA office.</li>
   <li>Renovations have begun on the new Mined Minds office space - opening July 2016!</li>
