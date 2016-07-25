@@ -20,6 +20,8 @@ include_social: true
     <p class="section-title"><span>NEWS</span></p>
   </section>
   <b>JULY 2016</b>
+  <li>Honored to be featured in a <a href="http://www.pbs.org/newshour/rundown/couple-teaches-laid-off-coal-miners-pa-code/">PBS NewsHour</a> article.</li>
+  <li>We're excited to announce details of our <b>first course in West Virginia!</b> The 4-month course will start on August 16th, with on-site training every Tuesday at BridgeValley Community and Technical College, South Charleston. Join us for informational sessions at South Charleston Library (312 4th Ave, South Charleston) on Tuesday, July 26th at 6:30 pm, and Wednesday, July 27th at 10 am.</li> 
   <li>Full house for our first informational session, so we will be holding another on Thursday, July 14th, at 5:30 pm. More details on our <a href="https://www.facebook.com/events/291744604509356/">Facebook page</a>.</li>
   <li><b>PRESS RELEASE:</b> <a href="https://www.ccac.edu/News-Stories/07/06/2016-CCAC-partners-with-Mined-Minds-Foundation-to-pave-the-way-for-new-programming-careers-in-Southwestern-Pennsylvania/">CCAC partners with Mined Minds Foundation to pave the way for new programming careers in Southwestern Pennsylvania</a></li> 
   <li>We will be holding an <a href="https://www.facebook.com/events/191624284573663/">informational session</a> for our new training courses on <b>Sunday, July 10th, at 2 pm</b>. Join us at 145 W High St, Waynesburg PA 15370, to find out what is involved, the careers that you can expect at the end, and how to apply.</li>
