@@ -15,7 +15,7 @@ include_social: true
     <br><br>
     <b><a href="consultancy.html">Mined Minds Consulting</a></b> offers a range of affordable and high quality business and software development consultancy services. We help local companies and government to achieve their goals, as well as working as an outsourcing partner for national and international firms.
     <br><br>
-    You can read about our approach to bringing the technology industry to coal towns in recent articles published in <a href="http://money.cnn.com/2016/04/22/news/economy/coal-workers-computer-coders/index.html">CNN</a> and the <a href="http://newsinteractive.post-gazette.com/coal-towns/">Pittsburgh Post-Gazette</a>.
+    You can read about our approach to bringing the technology industry to coal towns in recent articles published in <a href="http://www.pbs.org/newshour/rundown/couple-teaches-laid-off-coal-miners-pa-code/">PBS NewsHour</a>, <a href="http://money.cnn.com/2016/04/22/news/economy/coal-workers-computer-coders/index.html">CNN</a>, the <a href="http://newsinteractive.post-gazette.com/coal-towns/">Pittsburgh Post-Gazette</a>, and the <a href="http://www.observer-reporter.com/20160717/greene_county_nonprofit_teaching_computer_skills_to_unemployed">Observer-Reporter.</a>
     <br><br> 
     <p class="section-title"><span>NEWS</span></p>
   </section>
