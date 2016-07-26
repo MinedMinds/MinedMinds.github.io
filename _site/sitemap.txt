@@ -4,5 +4,7 @@ http://MinedMinds.github.io/contact.html
 http://MinedMinds.github.io/index.html
 http://MinedMinds.github.io/pages.html
 http://MinedMinds.github.io/sitemap.txt
+http://MinedMinds.github.io/support.html
 http://MinedMinds.github.io/team.html
+http://MinedMinds.github.io/thanks.html
 http://MinedMinds.github.io/training.html

@@ -36,8 +36,8 @@ include_social: true
   <b>MARCH 2016</b>
   <li>Check out the <a href="http://newsinteractive.post-gazette.com/coal-towns/">Pittsburgh Post-Gazette article</a> about the work that we are doing within the coal towns of Pennslyvania.</li>  
 <section id="research" class="centered">
-  <p class="section-title"><span>support</span></p>
-    Mined Minds Foundation is a 501(c)(3) non-profit, bringing software development eduaction, training, and job placement services to coal towns of Pennslyvania and West Virginia. Please <a href="contact.html">get in touch</a> if you would like to support our work.
+  <p class="section-title"><span><a href="support.html">support</a></span></p>
+    Mined Minds Foundation is a 501(c)(3) non-profit, bringing software development eduaction, training, and job placement services to coal towns of Pennslyvania and West Virginia. Please consider <a href="support.html">supporting</a> our work so that we can bring new career opportunities to more people in need.
 </section>
 
   
