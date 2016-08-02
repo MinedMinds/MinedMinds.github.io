@@ -7,11 +7,11 @@ include_social: true
 {% include JB/setup %}
 
 <section id="research" class="centered">
-  <p><br><br><a href="training.html" class="button">Sign-up now for the next course!</a></p>
+  <!-- <p><br><br><a href="training.html" class="button">Sign-up now for the next course!</a></p> -->
   <p class="section-title"><span>ABOUT</span></p>
     Mined Minds believes anyone can have a successful career in software development, and that a community working together towards common goals can change the economic driving force behind the local economy. We intend to seed the growth of technology hubs within the coal towns located in Pennsylvania and West Virginia. The information revolution can be the fuel to drive these areas into the future.
     <br><br>
-    <b><a href="training.html">Mined Minds Foundation</a></b> is a 501(c)(3) non-profit, building a supply of talented technology professionals by providing computer programming training to local residents that would like to start a career within software development. We offer the training at no cost to qualifying individuals. <b><a href="https://www.ccac.edu/Computer_Coding_Boot_Camp/">Sign-up is now open</a></b> for our next full-time course, run in conjunction with Community College of Allegheny County.
+    <b><a href="training.html">Mined Minds Foundation</a></b> is a 501(c)(3) non-profit, building a supply of talented technology professionals by providing computer programming training to local residents that would like to start a career within software development. We offer the training at no cost to qualifying individuals, and currently run classes in Waynesburg PA and Charleston WV.
     <br><br>
     <b><a href="consultancy.html">Mined Minds Consulting</a></b> offers a range of affordable and high quality business and software development consultancy services. We help local companies and government to achieve their goals, as well as working as an outsourcing partner for national and international firms.
     <br><br>
@@ -19,6 +19,9 @@ include_social: true
     <br><br> 
     <p class="section-title"><span>NEWS</span></p>
   </section>
+  <b>AUGUST 2016</b>
+  <li>We'll be holding informational sessions for our Charleston WV training course on Friday, August 5th at 5 pm, and Saturday, August 6th at 1 pm. Join us at South Charleston Library (312 4th Ave, South Charleston) to find out more.</li>
+  <li>New month and new office space - very exciting!</li>
   <b>JULY 2016</b>
   <li>Honored to be featured in a <a href="http://www.pbs.org/newshour/rundown/couple-teaches-laid-off-coal-miners-pa-code/">PBS NewsHour</a> article.</li>
   <li>We're excited to announce details of our <b>first course in West Virginia!</b> The 4-month course will start on August 16th, with on-site training every Tuesday at BridgeValley Community and Technical College, South Charleston. Join us for informational sessions at South Charleston Library (312 4th Ave, South Charleston) on Tuesday, July 26th at 6:30 pm, and Wednesday, July 27th at 10 am.</li> 
