@@ -31,5 +31,6 @@ include_social: true
   <p class="section-title"><span>Consultants</span></p>
   All consultants at Mined Minds have come through our extensive training program, and have a continual learning approach to programming. This means that they will apply the best technologies to meet your requirements, and will deliver quality software that meets your needs. The consultants work very closely with the co-founders at all times to ensure the very best possible solutions are delivered on time and on budget.
   <br>
+  <br>
   Caution: We have recently been informed that some individuals are claiming to have come through our program or to have been consultants on our staff. Please contact us to verify that you are dealing with certified Mined Minds students and consultants.  
 </section>
